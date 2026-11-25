@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 3,
   "targets": {
     "net10.0": {
       "Castle.Core/5.2.1": {
@@ -3079,8 +3079,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\xaviy\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\ies\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -3088,15 +3087,11 @@
       "projectUniqueName": "E:\\AccesoADatos\\RiderProjects\\XaviYeguasExamen\\XaviYeguasExamen\\XaviYeguasExamen.csproj",
       "projectName": "XaviYeguasExamen",
       "projectPath": "E:\\AccesoADatos\\RiderProjects\\XaviYeguasExamen\\XaviYeguasExamen\\XaviYeguasExamen.csproj",
-      "packagesPath": "C:\\Users\\xaviy\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\ies\\.nuget\\packages\\",
       "outputPath": "E:\\AccesoADatos\\RiderProjects\\XaviYeguasExamen\\XaviYeguasExamen\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\xaviy\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\ies\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3108,7 +3103,6 @@
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {}
         }
@@ -3123,11 +3117,10 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.400"
+      "SdkAnalysisLevel": "10.0.300"
     },
     "frameworks": {
       "net10.0": {
-        "framework": "net10.0",
         "targetAlias": "net10.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": {
@@ -3165,7 +3158,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
